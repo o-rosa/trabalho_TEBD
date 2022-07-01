@@ -1,0 +1,7 @@
+﻿Campo;Tipo;Formato;Descrição
+Região Habilitação Atual;Texto;;Região brasileira onde foi emitido a habilitação para determinada categoria
+UF Habilitação Atual;Texto;;Estado brasileiro onde foi emitido a habilitação para determinada categoria
+Sexo;Texto;;Sexo dos condutores para determinada categoria
+Faixa Etária;Texto;;Faixa etária de condutores para determinada categoria
+Categoria;Texto;;Categoria do veículo
+Qt. Condutor Histórico;Numérico;;Histórico do total de condutores para determinada categoria
